@@ -8,7 +8,7 @@ This repository contains solutions to five HackerRank algorithmic problem-solvin
 
 ## HackerRank Profile
 
-**HackerRank Profile:** PASTE-YOUR-HACKERRANK-PROFILE-LINK-HERE
+**HackerRank Profile:** https://www.hackerrank.com/profile/priyankapatel051
 
 ## Problems Solved
 
