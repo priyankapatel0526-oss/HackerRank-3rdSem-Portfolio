@@ -64,7 +64,8 @@ Counts the frequency of each query string using a hash map.
 
 ## HackerRank Badges
 
-<img width="1535" height="816" alt="Screenshot 2026-09-23 135244" src="https://github.com/user-attachments/assets/a707d3ce-7b0b-4ef6-964a-f89f2ec667f9" />
+<img width="1535" height="816" alt="Screenshot 2026-09-23 135244" src="https://github.com/user-attachments/assets/37dbadbe-342f-4674-a7f3-2d8f0c903848" />
+
 
 
 
