@@ -1,4 +1,4 @@
-<img width="1535" height="821" alt="Screenshot 2026-09-23 104532" src="https://github.com/user-attachments/assets/fc309b00-045e-4b92-8a58-4ca9dd8741a2" /># HackerRank 3rd Semester Portfolio
+
 
 HackerRank Algorithmic Problem-Solving Portfolio - 3rd Semester B.Tech CSE
 
@@ -49,7 +49,7 @@ Counts the frequency of each query string using a hash map.
 
 ## HackerRank Submission Screenshots
 
-Screenshots of the accepted HackerRank submissions will be added here.
+
 <img width="1528" height="773" alt="Screenshot 2026-09-23 113226" src="https://github.com/user-attachments/assets/83d68bbe-f38c-4bdf-98b0-9f498e644602" />
 <img width="1530" height="697" alt="Screenshot 2026-09-23 113103" src="https://github.com/user-attachments/assets/e249939c-44bd-4b04-bdfc-b690992d9d7a" />
 <img width="1535" height="792" alt="Screenshot 2026-09-23 112955" src="https://github.com/user-attachments/assets/e16f1a5c-b2dd-4bf8-8cb1-85d0bb396fbb" />
@@ -64,7 +64,8 @@ Screenshots of the accepted HackerRank submissions will be added here.
 
 ## HackerRank Badges
 
-Screenshots of the earned HackerRank badges will be added here.
+<img width="1535" height="816" alt="Screenshot 2026-09-23 135244" src="https://github.com/user-attachments/assets/a707d3ce-7b0b-4ef6-964a-f89f2ec667f9" />
+
 
 
 ## Reflection
